@@ -8,24 +8,12 @@ A Python-based tool that parses commercial invoices (PDF format) and calculates 
   -  Total Entry Cost (Tariff + Service Fee)
 
 
-Output
-Excel file with:
-
-*Tariff % per item
-
-*Calculated tariff amount
-
-*Total summary section highlighted in yellow
-
-
-## Example output format:
-
 ============================================================
      🚢  TARIFF CALCULATION SUMMARY  📦     
 ============================================================
-🔶 Total Tariff :   $2,288.64
-🔷 Service Fee  :   $448.46
-🟩 Entry Fee    :   $2,737.10
+🔶 Total Tariff :   $2,288.64  
+🔷 Service Fee  :   $448.46  
+🟩 Entry Fee    :   $2,737.10  
 ============================================================
 
 📄 Tariff Breakdown Table (top items):
