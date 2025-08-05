@@ -1,6 +1,6 @@
 # Receiving Process Automation
 
-My daily receiving process comes with three steps: tariff calculation, a clean receiving log, and an official incoming form. This script automates most parts of this workflow
+My daily receiving process comes with three steps: **Calculating tariff**, **recording receipts**, and **creating the incoming form**. This script automates most parts of this workflow
 
 ---
 
