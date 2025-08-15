@@ -16,6 +16,8 @@ My daily receiving process comes with three steps: **Calculating tariff**, **rec
    - `Receiving Log.xlsx`: structured file used during physical receiving
    - `Incoming Form.docx`: formal Word document based on the receiving log, suitable for internal filing or sign-off
    - `Tariff Summary.xlsx` (optional): includes cost breakdown if tariff data is present in the invoice
+  
+4. **Upload Receving_Log to DB**
 
 ---
 
